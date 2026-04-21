@@ -1,8 +1,4 @@
 easyconfigs:
-  - kim-api-2.4.1-GCC-13.3.0.eb:
-      options:
-          # See https://github.com/easybuilders/easybuild-easyconfigs/pull/25133
-          from-commit: c484c12aaad5da0e27cd9269d59b4ecaa89927ab
   - LAMMPS-22Jul2025-foss-2024a-kokkos.eb:
       options:
           # See https://github.com/easybuilders/easybuild-easyconfigs/pull/25133
